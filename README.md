@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">An upcoming full-stack developer</h3>
 
-- 🔭 I’m currently working on [SchedEase](https://github.com/aaronellman/SchedEase)
+- 🔭 I’m currently working on [ScheduFast](https://github.com/aaronellman/SchedEase)
 
-- 🌱 I’m currently learning **Java, Python and JS**
-
-- ⚡ Fun fact **I know Delphi**
+- 🌱 I’m currently learning **Java, SQL and Python with FastAPI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
